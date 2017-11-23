@@ -1,0 +1,24 @@
+PODS:
+  - Alamofire (4.5.1)
+  - RAMAnimatedTabBarController (3.0.0)
+  - ReachabilitySwift (3)
+  - SnapKit (4.0.0)
+  - SVProgressHUD (2.2.1)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.5)
+  - RAMAnimatedTabBarController
+  - ReachabilitySwift (~> 3)
+  - SnapKit (~> 4.0)
+  - SVProgressHUD
+
+SPEC CHECKSUMS:
+  Alamofire: 2d95912bf4c34f164fdfc335872e8c312acaea4a
+  RAMAnimatedTabBarController: 6d0638ad14db4939006e8c58933e05bde93e66f6
+  ReachabilitySwift: f5b9bb30a0777fac8f09ce8b067e32faeb29bb64
+  SnapKit: a42d492c16e80209130a3379f73596c3454b7694
+  SVProgressHUD: db27c54e6e18bc903341661fc9feb55e04905cc4
+
+PODFILE CHECKSUM: 54bc9998a6ffd49d71e9c536b4ef36f1dca994dc
+
+COCOAPODS: 1.2.1
